@@ -1,5 +1,2 @@
 # Thesis_project
-The end goal of this project is to create a Neural Network that learns a simple task such as solving a Rubix cube or mastering Tic Tac Toe using Deep Reinforcement Learning.
-The first phase of this project involves training a simple Artificial Neural Network to predict which customers will leave a banking firm based upon their customer data. This was accomplished with 86% accuracy after 100 training epochs.
-The second phase involves creating a Convolutional Neural Net to perform image analysis.
-Once I have the proper level of experience with designing these NN class types I will move on to training a third network using reinforcement learning.
+The goal of this project was to create a Convolutional Neural Network for image classification. It is coded entirely in Python using the TensorFlow and Keras Libraries. After 25 training epochs the model was able to classify images of dogs and cats with close to 80% accuracy. I'm using the following dataset provided on the TensorFlow repository: https://www.tensorflow.org/datasets/catalog/cats_vs_dogs
